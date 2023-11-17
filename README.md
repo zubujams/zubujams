@@ -1,5 +1,7 @@
 <h1>Hi, I'm Jamaine Azubuike! <br/><a href="https://github.com/zubujams">Aspiring DevOps Engineer</a>, <a href="https://www.linkedin.com/in/jamaineazubuike/">Data Professional</a>, <a href="https://www.linkedin.com/in/jamaineazubuike">IT Consultant</a></h1>
 
+<h3>Here are some projects I've built or collaborated on!</h3>
+
 <h2>👨🏾‍💻 DevOps Projects:</h2>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
