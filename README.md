@@ -4,13 +4,13 @@
 
 <h2>👨🏾‍💻 DevOps Projects:</h2>
 
-- <b>Automating AWS infrastructure using Terraform</b>
-  - [Launching an EC2 instance - Connect to the instance using Terraform -  Install Jenkins, Java, and Python](https://github.com/zubujams/aws-w-terraform)
+- <b>Terraform - Automating AWS infrastructure using Terraform</b>
+  - [Launching an EC2 instance - Connecting to the instance using Terraform -  Installing Jenkins, Java, and Python](https://github.com/zubujams/aws-w-terraform)
+- <b>CI/CD - Building a Docker-Jenkins Pipeline to implement CI/CD</b>
+  - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
+- <b>Ansible</b>
+  - [Deployment of WordPress Environment using Ansible](https://github.com/joshmadakor1/Sentinel-Lab)
 <!--
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
