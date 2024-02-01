@@ -8,7 +8,7 @@
   - [Launching an EC2 instance - Connecting to the instance using Terraform -  Installing Jenkins, Java, and Python](https://github.com/zubujams/aws-w-terraform)
 - <b>CI/CD - Building a Docker-Jenkins Pipeline to implement CI/CD</b>
   - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
-- <b>Ansible</b>
+- <b>Ansible - Using Ansible for config management</b>
   - [Deployment of WordPress Environment using Ansible](https://github.com/joshmadakor1/Sentinel-Lab)
 <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
