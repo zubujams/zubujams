@@ -3,6 +3,7 @@
 <h3>Here are some projects I've built or collaborated on!</h3>
 
 <h2>👨🏾‍💻 DevOps Projects:</h2>
+
 - <b>CI/CD - Continuous Integration and Continuous Deployment</b>
   - [CI/CD Terraform, Ansible, & Jenkins Pipeline using Equinix resources](https://github.com/zubujams/equinix_CICD_pipeline)
   - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
