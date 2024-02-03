@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamaine Azubuike! <br/><a href="https://github.com/zubujams">Aspiring DevOps Engineer</a>, <a href="https://www.linkedin.com/in/jamaineazubuike/">Data Professional</a>, <a href="https://www.linkedin.com/in/jamaineazubuike">IT Consultant</a></h1>
+<h1>Hi, I'm Jamaine Azubuike! <br/><a href="https://github.com/zubujams">DevOps Engineer</a>, <a href="https://www.linkedin.com/in/jamaineazubuike/">Data Professional</a>, <a href="https://www.linkedin.com/in/jamaineazubuike">IT Consultant</a></h1>
 
 <h3>Here are some projects I've built or collaborated on!</h3>
 
@@ -10,7 +10,7 @@
   - [Deployment of WordPress Environment using Ansible](https://github.com/zubujams/Deploying_WP_using_Ansible)
 - <b>CI/CD - Continuous Integration and Continuous Deployment</b>
   - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
-  - [CI/CD Terraform, Ansible, & Jenkins Pipeline using Equinix resources](https://github.com/zubujams/CICD-Docker-Jenkins)
+  - [CI/CD Terraform, Ansible, & Jenkins Pipeline using Equinix resources](https://github.com/zubujams/equinix_CICD_pipeline)
 <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
