@@ -3,14 +3,14 @@
 <h3>Here are some projects I've built or collaborated on!</h3>
 
 <h2>👨🏾‍💻 DevOps Projects:</h2>
-
+- <b>CI/CD - Continuous Integration and Continuous Deployment</b>
+  - [CI/CD Terraform, Ansible, & Jenkins Pipeline using Equinix resources](https://github.com/zubujams/equinix_CICD_pipeline)
+  - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
 - <b>Terraform - Automating infrastructure tasks using Infra-As-Code</b>
   - [Launching an EC2 instance - Connecting to the instance using Terraform -  Installing Jenkins, Java, and Python](https://github.com/zubujams/aws-w-terraform)
 - <b>Ansible - Configuration Management</b>
   - [Deployment of WordPress Environment using Ansible](https://github.com/zubujams/Deploying_WP_using_Ansible)
-- <b>CI/CD - Continuous Integration and Continuous Deployment</b>
-  - [CI/CD Terraform, Ansible, & Jenkins Pipeline using Equinix resources](https://github.com/zubujams/equinix_CICD_pipeline)
-  - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
+
 <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
