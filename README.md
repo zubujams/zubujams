@@ -12,6 +12,7 @@
   - [Launching an EC2 instance - Connecting to the instance using Terraform -  Installing Jenkins, Java, and Python](https://github.com/zubujams/aws-w-terraform)
 - <b>Ansible - Configuration Management</b>
   - [Deployment of WordPress Environment using Ansible](https://github.com/zubujams/Deploying_WP_using_Ansible)
+  - [CI/CD Deployment Using Ansible CM Tool](https://github.com/zubujams/CICD-using-AnsibleCM)
 
 <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
