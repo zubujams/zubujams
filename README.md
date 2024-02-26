@@ -7,7 +7,7 @@
 - <b>CI/CD - Continuous Integration and Continuous Deployment</b>
   - [CI/CD Terraform, Ansible, & Jenkins Pipeline using Equinix resources](https://github.com/zubujams/equinix_CICD_pipeline)
   - [CI/CD Docker-Jenkins Pipeline](https://github.com/zubujams/CICD-Docker-Jenkins)
-  - [CI/CD Pipeline with AWS Cloudformation]([https://github.com/zubujams/CICD-Docker-Jenkins](https://github.com/zubujams/CI-CD-Pipeline-AWS-Cloudformation))
+  - [CI/CD Pipeline with AWS Cloudformation]([https://github.com/zubujams/CICD-Docker-Jenkins](https://github.com/zubujams/CI-CD-Pipeline-AWS-Cloudformation)
   - 
 - <b>Terraform - Automating infrastructure tasks using Infra-As-Code</b>
   - [Launching an EC2 instance - Connecting to the instance using Terraform -  Installing Jenkins, Java, and Python](https://github.com/zubujams/aws-w-terraform)
