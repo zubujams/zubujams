@@ -13,7 +13,9 @@
 - <b>Ansible - Configuration Management</b>
   - [Deployment of WordPress Environment using Ansible](https://github.com/zubujams/Deploying_WP_using_Ansible)
   - [CI/CD Deployment Using Ansible CM Tool](https://github.com/zubujams/CICD-using-AnsibleCM)
-
+  
+- <b>Containarization & Orchestration</b>
+ - [Deploying db on Docker Swarm](https://github.com/zubujams/Redisdb_deployment_on_docker_swarm)
 <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
