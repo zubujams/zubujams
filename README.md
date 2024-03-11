@@ -16,6 +16,7 @@
   
 - <b>Containarization & Orchestration</b>
    - [Deploying db on Docker Swarm](https://github.com/zubujams/Redisdb_deployment_on_docker_swarm)
+   - [Complete App Setup with Kubernetes](https://github.com/zubujams/Redisdb_deployment_on_docker_swarm)
 <!--
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
